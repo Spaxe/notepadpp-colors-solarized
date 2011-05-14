@@ -1,7 +1,11 @@
 Solarized Colorscheme for Notepad++
 ===================================
 
-Developed by Ethan Schoonover <es@ethanschoonover.com>
+Color scheme developed by Ethan Schoonover <es@ethanschoonover.com>
+
+Theme started by Schalk Neethling <http://expansive-derivation.ossreleasefeed.com/>
+
+Further hacked by Xavier Ho <contact@xavierho.com>
 
 Visit the [Solarized homepage]
 ------------------------------
@@ -16,7 +20,7 @@ Solarized for Notepad++ repository: https://github.com/SpaXe/notepadpp-colors-so
 
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
-[Solarized for Notepad++ repository]: https://github.com/altercation/solarized
+[Solarized for Notepad++ repository]: https://github.com/SpaXe/notepadpp-colors-solarized
 
 Screenshots
 -----------
@@ -30,6 +34,8 @@ Copy or move the `Solarized_Dark.xml` file to your Notepad++ insallation `themes
 
 Launch Notepad++. In Settings > Style Configuration..., you should see a new theme called
 `Solarized Dark`. Select it and save your preferences.
+
+The default font is Consolas, 8pt. You can change this in the global override settings.
 
 Road Map
 --------
