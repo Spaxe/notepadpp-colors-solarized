@@ -73,7 +73,7 @@ matched in sRGB space.
     
 License
 -------
-Copyright (c) 2011 Ethan Schoonover
+Copyright (c) 2011 Ethan Schoonover, Schalk Neethling, Xavier Ho
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
