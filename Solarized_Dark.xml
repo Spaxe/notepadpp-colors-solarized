@@ -3,6 +3,7 @@
 
 Solarized
 Copyright (c) 2011 Schalk Neethling - http://expansive-derivation.ossreleasefeed.com/
+Further hacked by Xavier Ho - http://xavierho.com/
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -31,11 +32,12 @@ Requirements:
 
 Installation:
     Copy this file to C:\Documents and Settings\%%USERNAME%%\Application Data\Notepad++\themes
-
+        or
+    <Your Notepad++ Installation Folder>\themes
 
 Credits:
     Based on Solarized by Ethan Schoonover - http://ethanschoonover.com/solarized
-
+    
 //-->
 <NotepadPlus>
     <LexerStyles>
