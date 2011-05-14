@@ -1,7 +1,11 @@
 Solarized Colorscheme for Notepad++
 ===================================
 
-Developed by Ethan Schoonover <es@ethanschoonover.com>
+Color scheme developed by Ethan Schoonover <es@ethanschoonover.com>
+
+Theme started by Schalk Neethling <http://expansive-derivation.ossreleasefeed.com/>
+
+Further hacked by Xavier Ho <contact@xavierho.com>
 
 Visit the [Solarized homepage]
 ------------------------------
