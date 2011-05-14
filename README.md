@@ -6,13 +6,17 @@ Developed by Ethan Schoonover <es@ethanschoonover.com>
 Visit the [Solarized homepage]
 ------------------------------
 
-See the [Solarized homepage] for screenshots, 
-details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
-other applications.
+See the [Solarized homepage] for screenshots, details and colorscheme versions. It supports
+many popular terminals and editors such as Vim, Visual Studio, Xcode, Emacs, and so on. This
+project provides an additional support for Notepad++.
 
-Original Solarized Github Repository: https://github.com/altercation/solarized
+Original Solarized Repository: https://github.com/altercation/solarized
 
-Solarized for Notepad++ Github repository: https://github.com/SpaXe/notepadpp-colors-solarized
+Solarized for Notepad++ repository: https://github.com/SpaXe/notepadpp-colors-solarized
+
+[Solarized homepage]:   http://ethanschoonover.com/solarized
+[Solarized repository]: https://github.com/altercation/solarized
+[Solarized for Notepad++ repository]: https://github.com/altercation/solarized
 
 Screenshots
 -----------
