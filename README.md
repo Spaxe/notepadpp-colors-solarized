@@ -45,8 +45,11 @@ following languages are supported:
     Dark:
      - C
      - C++
+     - C#
+     - CSS (Some properties may be missing)
      - Java
      - Haskell
+     - HTML
      - PHP
      - Python
      
