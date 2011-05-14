@@ -48,6 +48,7 @@ following languages are supported:
      - C#
      - CSS (Some properties may be missing)
      - Java
+     - Javascript
      - Haskell
      - HTML
      - PHP
