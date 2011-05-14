@@ -22,6 +22,7 @@ following languages are supported:
      - Java
      - Haskell
      - PHP
+     - Python
      
      White: not yet started
 
