@@ -1,7 +1,23 @@
-Solarized for Notepad++
-======================================
+Solarized Colorscheme for Notepad++
+===================================
 
-### [See official homepage for full content](http://ethanschoonover.com/solarized)
+Developed by Ethan Schoonover <es@ethanschoonover.com>
+
+Visit the [Solarized homepage]
+------------------------------
+
+See the [Solarized homepage] for screenshots, 
+details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
+other applications.
+
+Original Solarized Github Repository: https://github.com/altercation/solarized
+
+Solarized for Notepad++ Github repository: https://github.com/SpaXe/notepadpp-colors-solarized
+
+Screenshots
+-----------
+
+![solarized dark](https://github.com/altercation/solarized/raw/master/img/solarized-vim.png)
 
 Installation
 ------------
@@ -50,3 +66,25 @@ matched in sRGB space.
     blue      #268bd2  4/4 blue      33 #0087ff 55 -10 -45  38 139 210 205  82  82
     cyan      #2aa198  6/6 cyan      37 #00afaf 60 -35 -05  42 161 152 175  74  63
     green     #859900  2/2 green     64 #5f8700 60 -20  65 133 153   0  68 100  60
+    
+License
+-------
+Copyright (c) 2011 Ethan Schoonover
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
