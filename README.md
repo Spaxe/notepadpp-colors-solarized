@@ -54,7 +54,8 @@ following languages are supported:
      - Perl (80% complete)
      - PHP
      - Python
-     
+     - Ruby (50% complete)
+     - TeX (75% complete)
      
      White: not yet started
 
