@@ -46,13 +46,15 @@ following languages are supported:
      - C
      - C++
      - C#
-     - CSS (Some properties may be missing)
+     - CSS (90% complete)
      - Java
      - Javascript
      - Haskell
      - HTML
+     - Perl (80% complete)
      - PHP
      - Python
+     
      
      White: not yet started
 
