@@ -278,12 +278,12 @@ Credits:
             <WordsStyle name="DEFAULT" styleID="32" fgColor="F8F8F8" bgColor="2A211C" fontSize="" fontStyle="0" />
         </LexerType>
         <LexerType name="makefile" desc="Makefile" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="F8F8F8" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="839496" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="1E9AE0" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="PREPROCESSOR" styleID="2" fgColor="FFAA00" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="IDENTIFIER" styleID="3" fgColor="EB939A" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="OPERATOR" styleID="4" fgColor="FFAA00" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="TARGET" styleID="5" fgColor="000000" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="TARGET" styleID="5" fgColor="93A1A1" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="IDEOL" styleID="9" fgColor="000000" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
         </LexerType>
         <LexerType name="vb" desc="VB / VBS" ext="">
